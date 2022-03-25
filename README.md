@@ -31,4 +31,4 @@ You can either:
 
 ## Socials
 <a href="https://discord.gg/MJp2JYE4Bg">![Discord](https://img.shields.io/discord/874244140991414282?color=%235865F2&label=Join%20Our%20Discord&style=for-the-badge&logo=discord)</a>
-<a href="https://discord.gg/MJp2JYE4Bg">![Twitter Follow](https://img.shields.io/twitter/follow/MomentumFree_?color=1DA1F2&style=for-the-badge&logo=twitter)</a>
+<a href="https://twitter.com/MomentumFree_">![Twitter Follow](https://img.shields.io/twitter/follow/MomentumFree_?color=1DA1F2&style=for-the-badge&logo=twitter)</a>
