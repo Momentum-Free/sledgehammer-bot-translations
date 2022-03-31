@@ -17,7 +17,8 @@
     "verificationSuccessfull.description.base": "Você está verificado",
     "verificationSuccessfull.description.notimeout": "já pode aceder ao servidor",
     "verificationSuccessfull.description.timeout": "pode demorar um pouco até receber o cargo devido à elevada afluência de utilizadores a solicitar verificação no momento neste servidor, por favor seja paciente",
-    "verificationSuccessfull.title": "Verificado com Sucesso!",
+    "verificationSuccessfull.title": "Verificado com Sucesso",
+    "verificationSuccessfull.completed": "Verificação Concluída",
     "verify": "Verificação",
     "whyVerification.description": "Este servidor é protegido pelo <@{{mention}}> para prevenir raids, contas bot e utilizadores mal intensionados.\nPara +informação sobre o bot: [Documentação Sledgehammer](https://docs.sledgehammer.app)\n\nPara obter acesso a {{name}}, tem de se verificar como ser humano ao completar um desafio anti-bot.\n\n_Este bot foi desenvolvido pela equipa [**Momentum Free**](https://momentum-free.com)._\n**Links oficiais:** [Twitter](https://twitter.com/MomentumFree_); [Serviços Discord](https://discord.momentum-free.com); [LinkedIn](https://www.linkedin.com/company/Momentum-Free/)",
     "whyVerification.title": "Porque um desafio anti-bot?"
