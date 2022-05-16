@@ -1,4 +1,5 @@
 {
+    "language": "Ukrainian",
     "startVerification.button.start": "Почати перевірку",
     "startVerification.button.why": "Чому?",
     "startVerification.message.description": "Щоб отримати доступ до сервера **{{name}}**, ви повинні підтвердити, що є людиною, виконавши завдання проти ботів.\n\nЯкщо ви не бачите внизу дві кнопки, оновіть програму Discord або відкрийте ії на комп'ютері або веб-браузері.",

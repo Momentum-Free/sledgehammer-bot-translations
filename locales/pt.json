@@ -1,4 +1,5 @@
 {
+    "language": "Portuguese",
     "startVerification.button.start": "Começar Verificação",
     "startVerification.button.why": "Porquê?",
     "startVerification.message.description": "Para obter acesso ao servidor **{{name}}**, tem de se verificar como ser humano ao completar um desafio anti-bot.\n\nSe não vê dois botões por baixo, por favor actualize a sua app Discord, ou abra no computador ou no browser.",

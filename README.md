@@ -19,8 +19,9 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 
 1. Create a fork of this repository.
 2. Copy the `example.json` file to the folder `locales` and rename it to the Language Code associated with the language, more [info here](https://www.science.co.il/language/Locale-codes.php).
-3. After finishing the full translation, create a merge request to the main branch.
-4. Wait for it to be approved and deployed.
+3. The first "language" value must be changed to the name, in english, of the language you will be translated. The rest must be translated to the language desired.
+4. After finishing the full translation, create a merge request to the main branch.
+5. Wait for it to be approved and deployed.
 
 ## Best Practices
 

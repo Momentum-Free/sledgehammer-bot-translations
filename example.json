@@ -1,4 +1,5 @@
 {
+    "language": "English",
     "startVerification.button.start": "Start Verification",
     "startVerification.button.why": "Why?",
     "startVerification.message.description": "To gain access to **{{name}}** you need to prove that you are a human by completing an anti-bot challenge.\n\nIf you do not see two buttons below, please update your Discord app or open it on the computer or the web browser.",
