@@ -11,6 +11,10 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 
 - 🇬🇧 English ( Great Britain )
 
+- 🇺🇦 Ukrainian ( Ukraine )
+
+- 🇬🇧 Russian ( Russia )
+
 ## How to Contribute
 
 1. Create a fork of this repository.
