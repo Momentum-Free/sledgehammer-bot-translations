@@ -22,5 +22,6 @@
 	"verificationSuccessfull.completed": "Проверка завершена",
 	"verify": "Проверка",
 	"whyVerification.description": "Этот сервер защищен <@{{mention}}> для предотвращения рейдов, учетных записей ботов и злоумышленников.\nДля получения дополнительной информации о боте: [Документация Sledgehammer](https://docs.sledgehammer.app)\n\nЧтобы получить доступ к {{name}}, вы должны подтвердить, что являетесь человеком, выполнив задачу против ботов.\n\n_Этот бот был разработан командой [**Momentum Free**](https://momentum-free.com)._\n**Официальные ссылки:** [Twitter](https://twitter.com/MomentumFree_); [Сервисы Discord](https://discord.momentum-free.com); [LinkedIn](https://www.linkedin.com/company/Momentum-Free/)",
-	"whyVerification.title": "Зачем нужен челлендж/задача  против ботов?"
+	"whyVerification.title": "Зачем нужен челлендж/задача  против ботов?",
+    "message.dismiss": "Вы можете закрыть это сообщение"
 }
