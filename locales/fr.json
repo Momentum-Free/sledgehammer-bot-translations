@@ -23,5 +23,5 @@
     "verify": "Vérifier",
     "whyVerification.description": "Ce serveur est protégé par <@{{mention}}> afin d'empêcher les raids, les comptes bots et les utilisateurs avec de mauvaises intentions.\nPour +d'informations à propos du bot: [Sledgehammer Docs](https://docs.sledgehammer.app)\n\nTo gain access to **{{name}}** you need to prove that you are a human by completing an anti-bot challenge.\n\n_This bot was developed by the [**Momentum Free**](https://momentum-free.com) team._\n**Official links:** [Twitter](https://twitter.com/MomentumFree_); [Discord Services](https://discord.momentum-free.com); [LinkedIn](https://www.linkedin.com/company/Momentum-Free/)",
     "whyVerification.title": "Pourquoi un challenge anti-bot?",
-    "message.dismiss": "You can dismiss this message"
+    "message.dismiss": "Vous pouvez ignorer ce message"
 }
