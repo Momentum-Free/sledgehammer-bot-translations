@@ -1,4 +1,3 @@
-
 # Sledgehammer Bot Translations
 
 Repository with translations for Sledgehammer Discord bot.
@@ -34,8 +33,9 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 You can either:
 
 - Reach out to us via [our discord](https://discord.gg/MJp2JYE4Bg) server.
-- Open an Issue on the repository [here](https://github.com/Momentum-Free/sledgehammer-bot-translations/issues/new).
+- Open an Issue on the repository [here](https://github.com/Momentum-One/sledgehammer-bot-translations/issues/new).
 
 ## Socials
+
 <a href="https://discord.gg/MJp2JYE4Bg">![Discord](https://img.shields.io/discord/874244140991414282?color=%235865F2&label=Join%20Our%20Discord&style=for-the-badge&logo=discord)</a>
-<a href="https://twitter.com/MomentumFree_">![Twitter Follow](https://img.shields.io/twitter/follow/MomentumFree_?color=1DA1F2&style=for-the-badge&logo=twitter)</a>
+<a href="https://twitter.com/MomentumOne_">![Twitter Follow](https://img.shields.io/twitter/follow/MomentumOne_?color=1DA1F2&style=for-the-badge&logo=twitter)</a>

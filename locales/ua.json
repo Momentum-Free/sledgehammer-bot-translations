@@ -21,7 +21,7 @@
     "verificationSuccessfull.title": "Успішно перевірено",
     "verificationSuccessfull.completed": "Перевірка завершена",
     "verify": "Перевірка",
-    "whyVerification.description": "Цей сервер захищений <@{{mention}}> для запобігання рейдам, обліковим записам ботів та зловмисникам.\nДля отримання додаткової інформації про бот: [Документація Sledgehammer](https://docs.sledgehammer.app )\n\nЩоб отримати доступ до {{name}}, ви повинні підтвердити, що є людиною, виконавши завдання проти ботів.\n\n_Цей бот був розроблений командою [**Momentum Free**](https://momentum-free.com)._\n**Офіційні посилання:** [Twitter](https://twitter.com/MomentumFree_);[Сервіси Discord](https://discord.momentum-free.com);[LinkedIn ](https://www.linkedin.com/company/Momentum-Free/)",
+    "whyVerification.description": "Цей сервер захищений <@{{mention}}> для запобігання рейдам, обліковим записам ботів та зловмисникам.\nДля отримання додаткової інформації про бот: [Документація Sledgehammer](https://docs.sledgehammer.app )\n\nЩоб отримати доступ до {{name}}, ви повинні підтвердити, що є людиною, виконавши завдання проти ботів.\n\n_Цей бот був розроблений командою [**Momentum One**](https://momentum-one.io)._\n**Офіційні посилання:** [Twitter](https://twitter.com/MomentumOne_);[Сервіси Discord](https://discord.momentum-one.io);[LinkedIn ](https://www.linkedin.com/company/Momentum-One/)",
     "whyVerification.title": "Навіщо потрібен челлендж/завдання проти ботів?",
     "message.dismiss": "Ви можете відхилити це повідомлення"
 }
