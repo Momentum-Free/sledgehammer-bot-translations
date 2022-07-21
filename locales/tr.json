@@ -21,7 +21,7 @@
   "verificationSuccessfull.title": "Başarıyla Doğrulandı",
   "verificationSuccessfull.completed": "Doğrulama Tamamlandı",
   "verify": "Doğrula",
-  "whyVerification.description": "Bu sunucu, saldırıları/baskınları, bot hesaplarını ve kötü niyetli kullanıcıları önlemek için <@{{mention}}> tarafından korunmaktadır.\nBot hakkında daha fazla bilgi için: [Sledgehammer Docs](https://docs.sledgehammer.app)\n\n**{{name}}**'ye erişebilmek için, bir bot engelleyici görevi tamamlayarak insan olduğunuzu kanıtlamanız gerekir.\n\n_Bu bot, [**Momentum Free**](https://momentum-free.com) ekibi tarafından geliştirildi._\n**Resmi bağlantılar:** [Twitter](https://twitter.com/MomentumFree_); [Discord Servisleri](https://discord.momentum-free.com); [LinkedIn](https://www.linkedin.com/company/Momentum-Free/)",
+  "whyVerification.description": "Bu sunucu, saldırıları/baskınları, bot hesaplarını ve kötü niyetli kullanıcıları önlemek için <@{{mention}}> tarafından korunmaktadır.\nBot hakkında daha fazla bilgi için: [Sledgehammer Docs](https://docs.sledgehammer.app)\n\n**{{name}}**'ye erişebilmek için, bir bot engelleyici görevi tamamlayarak insan olduğunuzu kanıtlamanız gerekir.\n\n_Bu bot, [**Momentum One**](https://momentum-one.io) ekibi tarafından geliştirildi._\n**Resmi bağlantılar:** [Twitter](https://twitter.com/MomentumOne_); [Discord Servisleri](https://discord.momentum-one.io); [LinkedIn](https://www.linkedin.com/company/Momentum-One/)",
   "whyVerification.title": "Neden bir bot engelleyici görev var?",
   "message.dismiss": "Bu iletiyi kapatabilirsiniz"
 }
