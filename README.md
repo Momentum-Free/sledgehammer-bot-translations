@@ -16,6 +16,8 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 
 - 🇫🇷 French ( France )
 
+- 🇨🇳 Chinese ( China )
+
 ## How to Contribute
 
 1. Create a fork of this repository.
