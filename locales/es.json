@@ -21,7 +21,7 @@
     "verificationSuccessfull.title": "Verificado correctamente",
     "verificationSuccessfull.completed": "Verificación completada",
     "verify": "Verificación",
-    "whyVerification.description": "Este servidor está protegido por para evitar incursiones, cuentas de bot y usuarios mal intencionados.\nPara +información de bot: [Documentación de mazo](https://docs.sledgehammer.app)\n\nPara obtener acceso a {{name}}, debe verificar como ser humano completando un desafío anti-bot.\n\n_Este bot fue desarrollado por el equipo [**Momentum One**](https://momentum-one.io)._\n**Enlaces oficiales:** [Twitter](https://twitter.com/MomentumOne_); [Servicios de Discord] (https://discord.momentum-one.io); [LinkedIn] (https://www.linkedin.com/company/Momentum-One/)",
+    "whyVerification.description": "Este servidor está protegido para evitar incursiones, cuentas de bot y usuarios mal intencionados.\nPara +información de bot: [Documentación de mazo](https://docs.sledgehammer.app)\n\nPara obtener acceso a {{name}}, debe verificar como ser humano completando un desafío anti-bot.\n\n_Este bot fue desarrollado por el equipo [**Momentum One**](https://momentum-one.io)._\n**Enlaces oficiales:** [Twitter](https://twitter.com/MomentumOne_); [Servicios de Discord] (https://discord.momentum-one.io); [LinkedIn] (https://www.linkedin.com/company/Momentum-One/)",
     "whyVerification.title": "¿Por qué un desafío anti-bot?",
-    "message.dismiss": "Puede hacer que este mensaje esté disponible"
+    "message.dismiss": "Puedes descartar este mensaje"
 }
