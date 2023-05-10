@@ -12,7 +12,7 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 
 - 🇺🇦 Ukrainian ( Ukraine )
 
-- 🇬🇧 Russian ( Russia )
+- 🇷🇺 Russian ( Russia )
 
 - 🇫🇷 French ( France )
 
