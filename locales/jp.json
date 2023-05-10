@@ -2,7 +2,7 @@
   "language": "Japanese",
   "startVerification.button.start": "認証開始",
   "startVerification.button.why": "なぜ？",
-  "startVerification.message.description": "**{{名前}}**にアクセスするには、アンチボットチャレンジをクリアして、自分が人間であることを証明する必要があります。以下の２つのボタンが\n\n表示されない場合は、Discordアプリをアップデートするか、パソコンまたはWebブラウザで開いてください",
+  "startVerification.message.description": "**{{name}}** にアクセスするには、アンチボットチャレンジをクリアして、自分が人間であることを証明する必要があります。以下の２つのボタンが\n\n表示されない場合は、Discordアプリをアップデートするか、パソコンまたはWebブラウザで開いてください。",
   "startVerification.message.title": "認証要請",
   "verification.awkwardError": "申し訳ありません。もう一度お試しください。それでも問題が解決しない場合は、お問い合わせまでご連絡ください。",
   "verification.invalidated": "検証無効",
