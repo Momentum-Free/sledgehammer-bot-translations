@@ -20,7 +20,9 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 
 - 🇹🇷 Turkish ( Turkey )
 
-- 🇪🇸 Spanish ( Spain ) 
+- 🇪🇸 Spanish ( Spain )
+
+- 🇯🇵 Japanese (Japan)
 
 ## How to Contribute
 
