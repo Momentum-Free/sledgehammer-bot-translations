@@ -11,7 +11,7 @@
     "verification.pending": "You already have a verification pending!",
     "verificationFailed.description": "Your verification failed, this message will refresh in 5 seconds so you can try again!",
     "verificationFailed.title": "Verification Failed!",
-    "verificationRequest.description": "Please select the **{{choice}}** on the menu below!",
+    "verificationRequest.description": "{{emoji}} __Please select the **{{choice}}** on the menu below!__ {{emoji}}",
     "verificationRequest.footer": "Please be aware that there are more options than the ones visible! Make sure you scroll down ⏬ if you don't see the match.",
     "verificationRequest.placeholder": "Please select the correct option",
     "verificationRequest.title": "Verify yourself to gain access to the server",

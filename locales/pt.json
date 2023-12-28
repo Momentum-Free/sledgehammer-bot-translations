@@ -7,12 +7,12 @@
     "verification.awkwardError": "Bem... pedimos desculpa, por favor tente novamente! Se estes problemas persistirem, favor entre em contacto com um membro do staff!",
     "verification.invalidated": "Verificação Invalidada",
     "verification.missingConfig": "Pedimos desculpa, mas infelizmente ainda faltam algumas configurações neste servidor.\nPor favor contacte um membro do staff directamente por DM (mensagem directa), ou então envie um email se eles tiverem um endereço disponível no website.",
-    "verification.missingPermission": "Não consegui atribuir te o cargo por falta de permissões, favor entre em contacto com um membro do staff.",
+    "verification.missingPermission": "Não consegui atribuir-lhe o cargo por falta de permissões, favor entre em contacto com um membro do staff.",
     "verification.pending": "Já tem uma verificação pendente!",
     "verificationFailed.description": "A verificação falhou, esta mensagem vai atualizar dentro de 5 segundos e poderá tentar denovo!",
     "verificationFailed.title": "Verificação Falhada!",
     "verificationRequest.description": "{{emoji}} __Por favor selecione **{{choice}}** no menú abaixo!__ {{emoji}}",
-    "verificationRequest.footer": "Por favor tenha em consideração que existem mais escolhas além das que estão visível! Verifique as escolhas todas⏬ caso não veja a apropriada.",
+    "verificationRequest.footer": "Por favor tenha em consideração que existem mais escolhas além das que estão visíveis! Verifique as escolhas todas ⏬ caso não veja a apropriada.",
     "verificationRequest.placeholder": "Por favor selecione a escolha correta",
     "verificationRequest.title": "Verifique ser humano para aceder ao servidor",
     "verificationSuccessfull.description.base": "Você está verificado",
@@ -21,7 +21,7 @@
     "verificationSuccessfull.title": "Verificado com Sucesso",
     "verificationSuccessfull.completed": "Verificação Concluída",
     "verify": "Verificação",
-    "whyVerification.description": "Este servidor é protegido pelo <@{{mention}}> para prevenir raids, contas bot e utilizadores mal intensionados.\nPara +informação sobre o bot: [Documentação Sledgehammer](https://docs.sledgehammer.app)\n\nPara obter acesso a {{name}}, tem de se verificar como ser humano ao completar um desafio anti-bot.\n\n_Este bot foi desenvolvido pela equipa [**Momentum One**](https://momentum-one.io)._\n**Links oficiais:** [Twitter](https://twitter.com/MomentumOne_); [Serviços Discord](https://discord.momentum-one.io); [LinkedIn](https://www.linkedin.com/company/Momentum-One/)",
+    "whyVerification.description": "Este servidor é protegido pelo <@{{mention}}> para prevenir raids, contas bot e utilizadores mal intensionados.\nPara +informação sobre o bot: [Documentação Sledgehammer](https://docs.sledgehammer.app)\n\nPara obter acesso a **{{name}}**, tem de se verificar como ser humano ao completar um desafio anti-bot.\n\n_Este bot foi desenvolvido pela equipa [**Momentum One**](https://momentum-one.io)._\n**Links oficiais:** [Twitter](https://twitter.com/MomentumOne_); [Serviços Discord](https://discord.momentum-one.io); [LinkedIn](https://www.linkedin.com/company/Momentum-One/)",
     "whyVerification.title": "Porque um desafio anti-bot?",
-    "message.dismiss": "Pode dispoensar esta mensagem"
+    "message.dismiss": "Pode dispensar esta mensagem"
 }
