@@ -1,5 +1,5 @@
 {
-    "language": "English",
+    "language": "Hindi",
     "startVerification.button.start": "सत्यापन शुरू करें",
     "startVerification.button.why": "क्यों?",
     "startVerification.message.description": "**{{name}}** तक पहुँचने के लिए आपको एक एंटी-बॉट चैलेंज पूरा करके यह साबित करना होगा कि आप इंसान हैं।\n\nयदि आपको नीचे दो बटन नहीं दिख रहे हैं, तो कृपया अपने Discord ऐप को अपडेट करें या इसे कंप्यूटर या वेब ब्राउज़र पर खोलें।",
