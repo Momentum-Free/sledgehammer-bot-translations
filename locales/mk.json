@@ -11,7 +11,7 @@
     "verification.pending": "Вашата верификација е во процес на одобрување!",
     "verificationFailed.description": "Вашата верификација е неуспешна, оваа порака ќе се рефрешира за 5 секунди, за да можете да се обидете повторно!",
     "verificationFailed.title": "Неуспешна верификација!",
-    "verificationRequest.description": "{{emoji}}__Ве молиме изберете го **{{choice}}** од менито подолу!__{{emoji}}",
+    "verificationRequest.description": "{{emoji}} __Ве молиме изберете го **{{choice}}** од менито подолу!__ {{emoji}}",
     "verificationRequest.footer": "Ве молиме проверете ги опциите кои не се видиливи! За да ги видите останатите опции, скролајте надолу ⏬ доколку не ја гледате посакуваната опција.",
     "verificationRequest.placeholder": "Ве молиме, изберете ја точната опција",
     "verificationRequest.title": "Верификувајте се за да добиете пристап до серверот.",
