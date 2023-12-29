@@ -7,34 +7,30 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 ## Currently Supported Languages
 
 - 🇵🇹 Portuguese ( Portugal )
-
+- 🇧🇷 Portuguese ( Brazil )
 - 🇬🇧 English ( Great Britain )
-
 - 🇺🇦 Ukrainian ( Ukraine )
-
 - 🇷🇺 Russian ( Russia )
-
 - 🇫🇷 French ( France )
-
 - 🇨🇳 Chinese ( China )
-
 - 🇹🇷 Turkish ( Turkey )
-
 - 🇪🇸 Spanish ( Spain )
-
 - 🇯🇵 Japanese ( Japan )
+- 🇮🇳 Hindi ( India )
+- 🇸🇦 Arabic ( Saudi Arabia ) - in review
+- 🇩🇪 German ( Germany ) - in review
 
 ## How to Contribute
 
 1. Create a fork of this repository.
 2. Copy the `example.json` file to the folder `locales` and rename it to the Language Code associated with the language, more [info here](https://www.science.co.il/language/Locale-codes.php).
-3. The first "language" value must be changed to the name, in english, of the language you will be translated. The rest must be translated to the language desired.
+3. The first "language" value must be changed to the name, in English, of the language you will be translating. The rest must be translated into the language desired.
 4. After finishing the full translation, create a merge request to the main branch.
 5. Wait for it to be approved and deployed.
 
 ## Best Practices
 
-- Please keep the translations to the most formal format possible.
+- Please keep the translations in the most formal format possible.
 
 ## Need Help / Clarification?
 
