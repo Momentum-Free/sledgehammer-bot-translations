@@ -11,7 +11,7 @@
     "verification.pending": "Sie haben bereits eine ausstehende Verifizierung!",
     "verificationFailed.description": "Ihre Verifizierung ist fehlgeschlagen, diese Nachricht wird in 5 Sekunden aktualisiert, sodass Sie es erneut versuchen können!",
     "verificationFailed.title": "Verifizierung fehlgeschlagen!",
-    "verificationRequest.description": "Bitte wählen Sie **{{choice}}** im unten stehenden Menü aus!",
+    "verificationRequest.description": "{{emoji}} __Bitte wählen Sie **{{choice}}** im untenstehenden Menü aus!__ {{emoji}}",
     "verificationRequest.footer": "Bitte beachten Sie, dass mehr Optionen verfügbar sind als sichtbar! Stellen Sie sicher, dass Sie nach unten scrollen ⏬, wenn Sie die passende Option nicht sehen.",
     "verificationRequest.placeholder": "Bitte wählen Sie die richtige Option aus",
     "verificationRequest.title": "Verifizieren Sie sich, um Zugang zum Server zu erhalten",
