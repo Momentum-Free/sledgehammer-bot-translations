@@ -17,8 +17,8 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 - 🇪🇸 Spanish ( Spain )
 - 🇯🇵 Japanese ( Japan )
 - 🇮🇳 Hindi ( India )
+- 🇩🇪 German ( Germany )
 - 🇸🇦 Arabic ( Saudi Arabia ) - in review
-- 🇩🇪 German ( Germany ) - in review
 
 ## How to Contribute
 
