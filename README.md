@@ -19,6 +19,7 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 - 🇮🇳 Hindi ( India )
 - 🇩🇪 German ( Germany )
 - 🇸🇦 Arabic ( Saudi Arabia )
+- 🇲🇰 Macedonian ( North Macedonia )
 
 ## How to Contribute
 
