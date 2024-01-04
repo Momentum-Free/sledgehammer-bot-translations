@@ -1,5 +1,6 @@
 {
   "language": "Turkish",
+  "languageEmoji": "🇹🇷",
   "startVerification.button.start": "Doğrulamayı başlat",
   "startVerification.button.why": "Neden?",
   "startVerification.message.description":"**{{name}}**'ye erişmek için bir bot engelleyici görevi tamamlayarak insan olduğunuzu kanıtlamanız gerekir.\n\nAşağıda iki düğme görmüyorsanız, lütfen Discord uygulamanızı güncelleyin veya bilgisayardan ya da web tarayıcınız üzerinden deneyin.",

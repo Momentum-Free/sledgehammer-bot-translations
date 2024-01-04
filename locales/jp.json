@@ -1,5 +1,6 @@
 {
     "language": "Japanese",
+    "languageEmoji": "🇯🇵",
     "startVerification.button.start": "認証を開始",
     "startVerification.button.why": "なぜ？",
     "startVerification.message.description": "**{{name}}** にアクセスするためには、アンチボットチャレンジを完了して人間であることを証明する必要があります。\n\nもし下にボタンが表示されていない場合は、Discordアプリを更新するか、コンピューターやウェブブラウザで開いてください。",

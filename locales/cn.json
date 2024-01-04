@@ -1,5 +1,6 @@
 {
     "language": "Chinese",
+    "languageEmoji": "🇨🇳",
     "startVerification.button.start": "开始验证",
     "startVerification.button.why": "为什么?",
     "startVerification.message.description": "进入 **{{name}}** 前, 你需要证明自己不是机器人。\n\n如果你没有看到以下两个按钮, 请更新你的 Discord 应用，或者在电脑上打开，也可以在浏览器内打开。",

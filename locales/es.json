@@ -1,5 +1,6 @@
 {
     "language": "Spanish",
+    "languageEmoji": "🇪🇸",
     "startVerification.button.start": "Iniciar comprobación",
     "startVerification.button.why": "Por qué?",
     "startVerification.message.description": "Para obtener acceso al servidor **{{name}}**, debes comprobar como ser humano al completar un desafío anti-bot.\n\nSi no ves dos botones debajo, actualiza tu aplicación Discord o ábrela en un PC o navegador.",

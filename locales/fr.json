@@ -1,5 +1,6 @@
 {
     "language": "French",
+    "languageEmoji": "🇫🇷",
     "startVerification.button.start": "Commencer la vérification",
     "startVerification.button.why": "Pourquoi?",
     "startVerification.message.description": "Pour accéder à **{{name}}** vous devez prover que vous êtes humain en complétant un challenge anti-bot.\n\nSi vous ne voyez pas les deux boutons si dessous, merci de mettre à jour votre application Discord ou ouvrez là sur l'ordinateur ou sur votre navigateur web.",

@@ -1,5 +1,6 @@
 {
     "language": "German",
+    "languageEmoji": "🇩🇪",
     "startVerification.button.start": "Verifizierung starten",
     "startVerification.button.why": "Warum?",
     "startVerification.message.description": "Um Zugang zu **{{name}}** zu erhalten, müssen Sie nachweisen, dass Sie ein Mensch sind, indem Sie eine Anti-Bot-Herausforderung abschließen.\n\nWenn Sie unten keine zwei Schaltflächen sehen, aktualisieren Sie bitte Ihre Discord-App oder öffnen Sie sie auf dem Computer oder im Webbrowser.",
