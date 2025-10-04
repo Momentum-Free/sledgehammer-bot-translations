@@ -20,6 +20,7 @@ For +information about the bot feel free to check out [Sledgehammer Docs](https:
 - 🇩🇪 German ( Germany )
 - 🇸🇦 Arabic ( Saudi Arabia )
 - 🇲🇰 Macedonian ( North Macedonia )
+- 🇰🇷 Korean ( South Korea )
 
 ## How to Contribute
 
